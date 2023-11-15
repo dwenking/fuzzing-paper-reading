@@ -33,4 +33,4 @@
 
 # 总结
 
-提出了一种新的方法GQT（*Graph Query Transformation*）
+提出了一种新的方法GQT（*Graph Query Transformation*），通过构建图模式的比较关系来进行检测。
