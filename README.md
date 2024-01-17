@@ -10,3 +10,4 @@
 * *Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation(ICSE'24)*: [笔记](24paper/Mozi24.md), [原文]()
 * *Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction(OSDI'23)*: [笔记](23paper/DetectTrans23.md), [原文](https://www.usenix.org/system/files/osdi23-jiang.pdf)
 * *PINOLO: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis(ATC'23)*: [笔记](23paper/Pinolo23.md), [原文](https://wcphkust.github.io/publications/ATC2023.pdf)
+* *Finding Bugs in Emerging Database Systems*: [笔记](prepub/SQLxDiff24.md)
