@@ -2,7 +2,11 @@
 
 论文笔记整理，持续更新中。
 
-## Database
+## Database Theory
+
+* *Towards Predicting Query Execution Time for Concurrent and Dynamic Database Workloads(VLDB'13)*: [笔记](previous/ToPredict13.md), [原文](https://dl.acm.org/doi/abs/10.14778/2536206.2536219)
+
+## Database Testing
 
 * *Finding Performance Issues in Database Engines via Cardinality Estimation Testing(ICSE'24)*: [笔记](24paper/FindPer24.md), [原文](https://arxiv.org/abs/2306.00355)
 * *Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Query Transformation(ICSE'24)*: [笔记](24paper/DetectLogic24.md), [原文](https://yuanchengjiang.github.io/docs/GraphGenie-ICSE24.pdf)
@@ -10,4 +14,3 @@
 * *Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation(ICSE'24)*: [笔记](24paper/Mozi24.md), [原文]()
 * *Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction(OSDI'23)*: [笔记](23paper/DetectTrans23.md), [原文](https://www.usenix.org/system/files/osdi23-jiang.pdf)
 * *PINOLO: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis(ATC'23)*: [笔记](23paper/Pinolo23.md), [原文](https://wcphkust.github.io/publications/ATC2023.pdf)
-* *Finding Bugs in Emerging Database Systems*: [笔记](prepub/SQLxDiff24.md)
