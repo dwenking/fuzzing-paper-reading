@@ -4,8 +4,8 @@
 
 ## Database Theory
 
-* *Towards Predicting Query Execution Time for Concurrent and Dynamic Database Workloads(VLDB'13)*: [笔记](23paper/CE23.md), [原文](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf)
-* *Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsoft SQL Server(VLDB'23)*: [笔记](previous/ToPredict13.md), [原文](https://dl.acm.org/doi/abs/10.14778/2536206.2536219)
+* *Towards Predicting Query Execution Time for Concurrent and Dynamic Database Workloads(VLDB'13)*: [笔记](previous/ToPredict13.md), [原文](https://dl.acm.org/doi/abs/10.14778/2536206.2536219)
+* *Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsoft SQL Server(VLDB'23)*: [笔记](23paper/CE23.md), [原文](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf)
 
 ## Database Testing
 
