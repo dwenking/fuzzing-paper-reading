@@ -13,7 +13,7 @@
 
 ## Database Testing
 
-### Logical Bug
+### Logic Bug
 
 * *Keep It Simple: Testing Databases via Differential Query Plans(SIGMOD'24)*:  [笔记](24paper/DQP24.md), [原文](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf)
 * *Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction(VLDB'24)*: [笔记](24paper/Radar24.md), [原文](https://dl.acm.org/doi/abs/10.14778/3659437.3659445)
