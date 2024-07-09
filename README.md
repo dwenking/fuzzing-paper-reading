@@ -1,6 +1,6 @@
 # fuzzing-paper-reading
 
-论文笔记整理，持续更新中。
+Fuzzing相关论文笔记整理，持续更新中。
 
 ## Database Theory
 
@@ -21,16 +21,20 @@
 * *PINOLO: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis(ATC'23)*: [笔记](23paper/Pinolo23.md), [原文](https://wcphkust.github.io/publications/ATC2023.pdf)
 * *Detecting Logic Bugs of Join Optimizations in DBMS(SIGMOD'23)*: [笔记](23paper/TQS23.md), [原文](https://dl.acm.org/doi/10.1145/3588909)
 
-### Performance Bug
-
-* *Finding Performance Issues in Database Engines via Cardinality Estimation Testing(ICSE'24)*: [笔记](24paper/FindPer24.md), [原文](https://arxiv.org/abs/2306.00355)
-* *Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries(ICSE'22)*: [笔记](previous/AMOEBA22.md), [原文](https://ieeexplore.ieee.org/document/9793961/)
-
 ### Crash Bug
 
 * *Towards Generic Database Management System Fuzzing(Security'24)*: [笔记](24paper/Buzz24.md), [原文](https://www.usenix.org/system/files/sec24summer-prepub-7-yang-yupeng.pdf)
 * *Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer(ICSE'24)*: [笔记](24paper/Sedar24.md), [原文](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf)
 * *Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation(ICSE'24)*: [笔记](24paper/Mozi24.md), [原文](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf)
+
+### Performance Bug
+
+* *Finding Performance Issues in Database Engines via Cardinality Estimation Testing(ICSE'24)*: [笔记](24paper/FindPer24.md), [原文](https://arxiv.org/abs/2306.00355)
+* *Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries(ICSE'22)*: [笔记](previous/AMOEBA22.md), [原文](https://ieeexplore.ieee.org/document/9793961/)
+
+### Transaction Bug
+
+* *Understanding Transaction Bugs in Database Systems(ICSE'24)*: [笔记](24paper/TXBug.md), [原文](https://dl.acm.org/doi/10.1145/3597503.3639207)
 * *Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction(OSDI'23)*: [笔记](23paper/DetectTrans23.md), [原文](https://www.usenix.org/system/files/osdi23-jiang.pdf)
 
 ## Database Application Testing
