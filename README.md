@@ -23,6 +23,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 
 ### Crash Bug
 
+* *WINGFUZZ: Implementing Continuous Fuzzing for DBMSs(ATC'24)*: [笔记](24paper/Wing24.md), [原文](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/WingFuzz_ATC24.pdf)
 * *Towards Generic Database Management System Fuzzing(Security'24)*: [笔记](24paper/Buzz24.md), [原文](https://www.usenix.org/system/files/sec24summer-prepub-7-yang-yupeng.pdf)
 * *Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer(ICSE'24)*: [笔记](24paper/Sedar24.md), [原文](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf)
 * *Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation(ICSE'24)*: [笔记](24paper/Mozi24.md), [原文](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf)
