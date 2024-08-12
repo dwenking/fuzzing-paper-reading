@@ -41,3 +41,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 ## Database Application Testing
 
 * *Data-Oriented Differential Testing of Object-Relational Mapping Systems(ICSE'21)*: [笔记](previous/CYN21.md), [原文](https://ieeexplore.ieee.org/document/9401963)
+
+## Mutation-Based Fuzzing
+
+* *The Mutators Reloaded: Fuzzing Compilers with Large Language Model Generated Mutation Operators(ASPLOS'24)*: [笔记](24paper/Meta24.md), [原文](https://connglli.github.io/pdfs/metamut_asplos24.pdf)
