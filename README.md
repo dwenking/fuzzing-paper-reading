@@ -31,6 +31,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 
 ### Performance Bug
 
+* *PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction(ICSE'25)*: [笔记](25paper/Putty25.md), [原文](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf)
 * *Finding Performance Issues in Database Engines via Cardinality Estimation Testing(ICSE'24)*: [笔记](24paper/FindPer24.md), [原文](https://arxiv.org/abs/2306.00355)
 * *Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries(ICSE'22)*: [笔记](previous/AMOEBA22.md), [原文](https://ieeexplore.ieee.org/document/9793961/)
 
@@ -39,7 +40,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 * *Understanding Transaction Bugs in Database Systems(ICSE'24)*: [笔记](24paper/TXBug.md), [原文](https://dl.acm.org/doi/10.1145/3597503.3639207)
 * *Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction(OSDI'23)*: [笔记](23paper/DetectTrans23.md), [原文](https://www.usenix.org/system/files/osdi23-jiang.pdf)
 
-## Database Application Testing
+## DB Application Testing
 
 * *Data-Oriented Differential Testing of Object-Relational Mapping Systems(ICSE'21)*: [笔记](previous/CYN21.md), [原文](https://ieeexplore.ieee.org/document/9401963)
 
