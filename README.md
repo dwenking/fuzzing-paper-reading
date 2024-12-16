@@ -15,6 +15,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 
 ### Logic Bug
 
+* *Understanding and Reusing Test Suites Across Database Systems(SIGMOD'24)*: [笔记](24paper/SQuality24.md), [原文](https://arxiv.org/abs/2410.21731)
 * *Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation(OSDI'24)*: [笔记](24paper/EET24.md), [原文](https://jzuming.github.io/paper/osdi24-jiang.pdf)
 * *Keep It Simple: Testing Databases via Differential Query Plans(SIGMOD'24)*:  [笔记](24paper/DQP24.md), [原文](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf)
 * *Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction(VLDB'24)*: [笔记](24paper/Radar24.md), [原文](https://dl.acm.org/doi/abs/10.14778/3659437.3659445)
