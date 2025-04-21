@@ -15,7 +15,7 @@ Fuzzing相关论文笔记整理，持续更新中。
 
 ### Logic Bug
 
-* *Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs(SIGMOD'24)*: [笔记](24paper/SQuality24.md), [原文](https://dlnext.acm.org/doi/pdf/10.1145/3698810)
+* *Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs(SIGMOD'24)*: [笔记](25paper/Spatter25.md), [原文](https://dlnext.acm.org/doi/pdf/10.1145/3698810)
 * *Understanding and Reusing Test Suites Across Database Systems(SIGMOD'24)*: [笔记](24paper/SQuality24.md), [原文](https://arxiv.org/abs/2410.21731)
 * *Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation(OSDI'24)*: [笔记](24paper/EET24.md), [原文](https://jzuming.github.io/paper/osdi24-jiang.pdf)
 * *Keep It Simple: Testing Databases via Differential Query Plans(SIGMOD'24)*:  [笔记](24paper/DQP24.md), [原文](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf)

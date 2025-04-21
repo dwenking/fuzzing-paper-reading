@@ -8,9 +8,9 @@
 
 # 方案
 
-1. Mutator Invention: 这
-   1. 一步不生成程序，只给LLM列出操作的类型以及可选的程序结构，让LLM随机生成Mutator的名字和自然语言描述
-   2. Trick：是将温度值设定的很高，以期望LLM产生更多有趣的描述
+1. Mutator Invention:
+   1. 这一步不生成程序，只给LLM列出操作的类型以及可选的程序结构，让LLM随机生成Mutator的名字和自然语言描述
+   2. Trick：将温度值设定的很高，以期望LLM产生更多有趣的描述
 2. Implementation Synthesis:
    1. 首先由人类提供程序模版，提示LLM需要补全的内容。在生成代码时，构建CoT一步一步提示LLM应该如何生成
    2. Trick：将Clang AST API封装成更简洁的API便于LLM理解
