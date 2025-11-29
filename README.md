@@ -43,6 +43,11 @@ Fuzzing相关论文笔记整理，持续更新中。
 * *Understanding Transaction Bugs in Database Systems(ICSE'24)*: [笔记](24paper/TXBug.md), [原文](https://dl.acm.org/doi/10.1145/3597503.3639207)
 * *Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction(OSDI'23)*: [笔记](23paper/DetectTrans23.md), [原文](https://www.usenix.org/system/files/osdi23-jiang.pdf)
 
+## Vector/ RAG Testing
+
+* *MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation(FORGE'24)*: [笔记](24paper/MeTMaP.md), [原文](https://arxiv.org/abs/2402.14480)
+* *MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems*: [笔记](25paper/MetaRAG.md), [原文](https://arxiv.org/html/2509.09360v1)
+
 ## DB Application Testing
 
 * *Data-Oriented Differential Testing of Object-Relational Mapping Systems(ICSE'21)*: [笔记](previous/CYN21.md), [原文](https://ieeexplore.ieee.org/document/9401963)
