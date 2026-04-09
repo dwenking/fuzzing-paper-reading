@@ -47,6 +47,11 @@ Fuzzing相关论文笔记整理，持续更新中。
 
 * *MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation(FORGE'24)*: [笔记](24paper/MeTMaP.md), [原文](https://arxiv.org/abs/2402.14480)
 * *MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems*: [笔记](25paper/MetaRAG.md), [原文](https://arxiv.org/html/2509.09360v1)
+* *VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems*: [笔记](VDBFuzz26.md), [原文](https://shenaow.github.io/files/icse26vdbfuzz.pdf)
+
+## LLM & DB
+
+* *Validating LLM-Generated SQL Queries through Metamorphic Prompting (FSE'26)*: [笔记](26paper/MRSQLGen26.md), [原文](https://matafeiyanll.github.io/paper/FSE26-MRSQLGen.pdf)
 
 ## DB Application Testing
 
